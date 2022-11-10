@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![@quantum_tunnel's Holopin board](https://holopin.me/quantum_tunnel)](https://holopin.io/@quantum_tunnel)
+[![@quantum_tunnel's Holopin board](https://holopin.io/api/user/board?user=quantum_tunnel)](https://holopin.io/@quantum_tunnel)
